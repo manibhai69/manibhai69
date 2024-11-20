@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @manibhai69
+- 👀 I’m interested in web development, UI/UX design, and machine learning.
+- 🌱 I’m currently learning advanced JavaScript, React, and diving deeper into AI and data science.
+- 💞️ I’m looking to collaborate on open-source web projects, machine learning models, and UI/UX design improvements.
+- 📫 How to reach me: You can contact me via [email@example.com] or find me on LinkedIn [LinkedIn Profile](https://www.linkedin.com/in/your-profile).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I once built a fully functioning AI chatbot in a weekend just for fun! 😄
